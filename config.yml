@@ -6,8 +6,8 @@ Item:
     - "&fWorth: [AMOUNT_COMMAS]"
     - "&fWithdrawer: [WITHDRAWER]"
   ItemData: 0
-  Encanted: false
-  #Item type must be in all caps
+  Enchanted: false
+  #Item type must be in all caps, must be as typed in the Material enum https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html
   #ItemData should be a number from this list: https://minecraftitemids.com/types/dye
   #Placeholders:
   #[WITHDRAWER] - The person who withdrew the TokenNote
