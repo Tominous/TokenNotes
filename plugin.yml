@@ -1,0 +1,8 @@
+main: com.gardeningtool.TokenNotes.TokenNotes
+name: TokenNotes
+version: 1.0
+author: BeaverXSwordz
+description: A token BankNotes plugin
+commands:
+  tokenwithdraw: 
+    description: Withdraw tokens
